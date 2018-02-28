@@ -2,4 +2,5 @@
 
 参考链接  http://www.cnblogs.com/wuyuegb2312/archive/2013/04/09/3008320.html
 
-1. 简单工厂方法
+1. 工厂模式
+2. 策略模式
